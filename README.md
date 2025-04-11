@@ -52,7 +52,7 @@ I’m 17, dangerously curious, and on a mission to turn code into magic. 🪄
 
 ## 📫 Let’s Link Up!
 
-- 🔗 [www.linkedin.com/in/aryan-more07](#) (Insert your profile here)
+- 🔗 [https://www.linkedin.com/in/aryan-more-b5a35a2a0/](#) (Insert your profile here)
 - 🕹️ [Portfolio](#) (Coming soon. It’ll be fire.)
 - 📨 Slide into my DMs (professionally): [aryan.more@mitwpu.edu.in]
 
