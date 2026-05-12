@@ -1,3 +1,7 @@
+<h1 align="center">
+  Aryan More
+</h1>
+
 # About Me:
 I'm a frontend developer currently building a client-facing website with React, TailwindCSS, HTML, and CSS — translating design intent into clean, responsive interfaces that actually work.<br>
 I have a genuine eye for design aesthetics, which means I don't just write code that functions — I write code that looks right. I'm actively looking to collaborate on frontend projects where that sensibility matters.<br>
